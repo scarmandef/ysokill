@@ -1,0 +1,8 @@
+VERMELHO = "\033[1;31m"
+RED1 = '\033[31m'
+BLUE = '\033[94m'
+CIANO = '\033[36m'
+VERDE = "\033[92m"
+BRANCO = "\033[0;0m"
+AMARELO = "\033[1;93m"
+CLARO = "\033[93m"
