@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/80011252/195480832-9f0fa0c7-c20c-421e-9097-25fccec2dc05.png)
 
 
-### Installation
+### 🛠️ Installation
 
 
 1. Clone the repo
