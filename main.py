@@ -1,6 +1,6 @@
-from src.lib import ysoserial
+from src.libs.lib import ysoserial
 from interface.banner.exibe import banner
-from src.args import args
+from src.libs.args import args
 
 if __name__ == "__main__":
     
