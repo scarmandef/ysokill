@@ -1,9 +1,9 @@
-from src.lib import ysoserial
+from src.libs.lib import ysoserial
 from interface.banner.exibe import banner
 import argparse
-from interface.menu import menu
-from src.exec import Obj_Gzip,Obj_Normal,Reverse_Gzip,Reverse_Normal,Binary_cmd,Binary_rev
-from interface.colors import VERDE,BRANCO,AMARELO, RED1,BLUE,VERMELHO
+from interface.ui.menu import menu
+from src.libs.exec import Obj_Gzip,Obj_Normal,Reverse_Gzip,Reverse_Normal,Binary_cmd,Binary_rev
+from interface.ui.colors import VERDE,BRANCO,AMARELO, RED1,BLUE,VERMELHO
 
 def args():
 
