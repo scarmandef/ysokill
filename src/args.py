@@ -29,15 +29,15 @@ def args():
     if mode == '1':
        Obj_Gzip(cmd)
     elif mode == '2':
-       Obj_Normal(cmd)
+       Reverse_Gzip(ip,port)       
     elif mode == '3':
-       Reverse_Gzip(ip,port)
+       Obj_Normal(cmd)       
     elif mode == '4':
        Reverse_Normal(ip,port)
     elif mode == '5':
        Binary_cmd(cmd)
     elif mode == '6':
-        Binary_rev(ip,port)
+       Binary_rev(ip,port)
     else:
         print('Invalid mode')
 
