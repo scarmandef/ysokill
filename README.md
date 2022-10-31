@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>☕ Ysokill ☕
+<br>⚔️ Fucktruts2 ⚔️
 </h1>
 
 <!-- ABOUT THE PROJECT -->
