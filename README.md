@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>⚔☕️ ysokill ☕️
+<br>☕️ ysokill ☕️
 </h1>
 
 <!-- ABOUT THE PROJECT -->
